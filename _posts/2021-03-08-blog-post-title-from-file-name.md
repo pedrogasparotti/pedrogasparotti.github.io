@@ -1,32 +1,7 @@
-## Blog Post Title From First Header
+## Detecção de anomalias com aprendizado não supervisionado
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
+A definição de limiares para detecção de anomalias em sistemas de SHM requer uma análise minuciosa da relação entre índices de dano e a severidade real do dano estrutural. Güemes et al., 2020 enfatizam que a determinação desses limiares deve considerar a Probabilidade de Detecção (POD), um conceito que emergiu em 1969 através da NASA Defense, 2009, buscando quantificar a confiabilidade dos métodos nãodestrutivos de avaliação.
 
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+O processo envolve a compreensão da correlação entre índices de dano e extensão do dano através de análises experimentais e simulações numéricas, incluindo modelos de elementos finitos (FEM), para prever o comportamento do índice de dano em diferentes cenários. O desenvolvimento do model-assisted probability of detection (MAPOD) reduziu a necessidade de testes experimentais extensivos, permitindo a modelagem da resposta à inspeção do material danificado
 
 ---
-
-### This is a header
-
-#### Some T-SQL Code
-
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
-
-#### Some PowerShell Code
-
-```powershell
-Write-Host "This is a powershell Code block";
-
-# There are many other languages you can use, but the style has to be loaded first
-
-ForEach ($thing in $things) {
-    Write-Output "It highlights it using the GitHub style"
-}
-```
