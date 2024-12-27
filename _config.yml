@@ -38,6 +38,3 @@ defaults:
       type: post
     values:
       tags: Other
-
-url: "https://www.iasafena.com.br"
-baseurl: ""
