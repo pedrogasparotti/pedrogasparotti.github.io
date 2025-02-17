@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blue-rook.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2025-02-11T23:45:00+00:00</lastmod>
   </url><url>
-    <loc>https://blue-rook.github.io/blog/my-new-post/</loc>
+    <loc>/blog/</loc>
     <lastmod>2025-02-11T23:45:00+00:00</lastmod>
   </url><url>
-    <loc>https://blue-rook.github.io/blog/</loc>
+    <loc>/blog/my-new-post/</loc>
     <lastmod>2025-02-11T23:45:00+00:00</lastmod>
   </url><url>
-    <loc>https://blue-rook.github.io/categories/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://blue-rook.github.io/tags/</loc>
+    <loc>/tags/</loc>
   </url>
 </urlset>
