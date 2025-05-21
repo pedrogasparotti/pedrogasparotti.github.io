@@ -23,11 +23,11 @@
       <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Sobre nós</title>
+      <title></title>
       <link>http://localhost:1313/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Esse projeto surgiu dentro da Universidade Federal de Santa Catarina, no Laboratório de Otimização e Confiabilidade Estrutural (CORE - UFSC), com o propósito de tornar as estruturas viárias mais seguras por meio de soluções tecnológicas de monitoramento de alta precisão, garantindo segurança e conformidade regulatória.&lt;/p&gt;&#xA;&lt;p&gt;Além de oferecer monitoramento em tempo real e relatórios de atualização automática, o sistema alerta a equipe para agir apenas quando for realmente necessário, economizando recursos com visitas técnicas e reduzindo o número de paralisações no tráfego.&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;safena&#34;&gt;Safena&lt;/h1&gt;&#xA;&lt;h2 id=&#34;sobre-nós&#34;&gt;Sobre nós&lt;/h2&gt;&#xA;&lt;p&gt;A Safena surgiu dentro da Universidade Federal de Santa Catarina, no Laboratório de Otimização e Confiabilidade Estrutural (CORE – UFSC), com o propósito de tornar as estruturas viárias mais seguras. Por meio de soluções inovadoras de monitoramento de alta precisão e com o uso de tecnologias avançadas de aprendizado de máquina, a Safena desenvolve sistemas personalizados que promovem segurança estrutural em conformidade com as normas técnicas.&lt;/p&gt;&#xA;&lt;h2 id=&#34;missão&#34;&gt;Missão&lt;/h2&gt;&#xA;&lt;p&gt;Tornar as estruturas viárias mais seguras por meio de soluções tecnológicas de monitoramento, construindo um futuro em que a inovação esteja integrada à engenharia e à proteção de pessoas e ecossistemas.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
