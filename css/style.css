@@ -2796,8 +2796,8 @@ video {
   width: 3.5rem;
 }
 
-.w-56 {
-  width: 14rem;
+.w-32 {
+  width: 8rem;
 }
 
 .w-auto {
@@ -2806,14 +2806,6 @@ video {
 
 .w-full {
   width: 100%;
-}
-
-.w-40 {
-  width: 10rem;
-}
-
-.w-32 {
-  width: 8rem;
 }
 
 .max-w-6xl {
