@@ -2796,6 +2796,10 @@ video {
   width: 3.5rem;
 }
 
+.w-32 {
+  width: 8rem;
+}
+
 .w-auto {
   width: auto;
 }

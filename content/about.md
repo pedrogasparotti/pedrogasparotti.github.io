@@ -1,25 +1,18 @@
-+++
-title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-+++
+# Safena
 
-Written in Go, Hugo is an open source static site generator available under the [Apache Licence 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+## Sobre nós
 
-Hugo makes use of a variety of open source projects including:
+A Safena surgiu dentro da Universidade Federal de Santa Catarina, no Laboratório de Otimização e Confiabilidade Estrutural (CORE – UFSC), com o propósito de tornar as estruturas viárias mais seguras. Por meio de soluções inovadoras de monitoramento de alta precisão e com o uso de tecnologias avançadas de aprendizado de máquina, a Safena desenvolve sistemas personalizados que promovem segurança estrutural em conformidade com as normas técnicas.
 
-* https://github.com/yuin/goldmark
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+## Missão
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
+Tornar as estruturas viárias mais seguras por meio de soluções tecnológicas de monitoramento, construindo um futuro em que a inovação esteja integrada à engenharia e à proteção de pessoas e ecossistemas.
 
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
+## Visão
 
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
+Ser reconhecida como referência nacional em monitoramento inteligente e pioneirismo tecnológico na engenharia.
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
+## Nossas Soluções
+
+Oferecemos monitoramento em tempo real e geração automática de relatórios, além de um sistema de alerta para comportamentos estruturais atípicos. Com técnicas de aprendizado de máquina, prevemos o comportamento das estruturas e alertamos a equipe técnica apenas quando a intervenção for realmente necessária. Isso permite otimizar recursos, reduzir deslocamentos técnicos e minimizar interrupções no tráfego. Esse diferencial torna nosso sistema mais eficiente, econômico e confiável.

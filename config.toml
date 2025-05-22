@@ -1,5 +1,5 @@
-baseURL = "http://localhost:1313/"
-title = "Safena"
+baseURL = "https://pedrogasparotti.github.io"
+title = "Safena Engenharia"
 theme = "tella"
 languageCode = "en"
 DefaultContentLanguage = "en"
@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
 
-  showBlog = true
+  showBlog = false
   mainSections = ['blog']
 
   googleFonts = true
@@ -28,10 +28,10 @@ enableRobotsTXT = true
 
     # The size parameter is the class name of tailwindcss
     # https://tailwindcss.com/
-    size = "h-14"
+    size = "h-14 w-32"
 
   [params.site]
-    name = "Tella"
+    name = "Safena Engenharia CNPJ: 60.871.697/0001-06"
 
   [params.icon]
     #If you want to use FontAwesome, set this parameter to true.
@@ -50,28 +50,17 @@ enableRobotsTXT = true
 
 [menu]
 
-  [[menu.main]]
-    identifier = "products"
-    name = "Products"
-    url = "/products/"
-    weight = 1
-
-  [[menu.main]]
-    identifier = "blog"
-    name = "Blog"
-    url = "/blog/"
-    weight = 2
 
   [[menu.main]]
     identifier = "about"
-    name = "About"
+    name = "Sobre"
     url = "/about/"
     weight = 3
 
   [[menu.main]]
     identifier = "contact"
-    name = "Contact"
-    url = "/contact/"
+    name = "Contato"
+    url = "https://www.linkedin.com/company/safenaeng"
     weight = 4
 
   # Footer Menu
@@ -79,12 +68,6 @@ enableRobotsTXT = true
     name = "Home"
     url = "/"
       weight = 1
-
-  [[menu.footer]]
-    name = "Github"
-    url = "https://github.com/opera7133/tella"
-    pre = "<i class='icon-github text-2xl'></i>"
-      weight = 2
 
 [markup]
   [markup.goldmark]
